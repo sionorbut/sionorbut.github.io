@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sionorbut.github.io/sitemap.html.gz
+Sitemap: https://sionorbut.github.io/app/sitemap.html.gz
+Sitemap: https://sionorbut.github.io/assets/sitemap.html.gz
+Sitemap: https://sionorbut.github.io/css/sitemap.html.gz
+Sitemap: https://sionorbut.github.io/includes/sitemap.html.gz
+Sitemap: https://sionorbut.github.io/item/sitemap.html.gz
+Sitemap: https://sionorbut.github.io/src/sitemap.html.gz
